@@ -1,4 +1,4 @@
-// App.js
+
 import React from 'react';
 import { LineChart, Line, BarChart, Bar, PieChart, Pie, Cell, Tooltip, CartesianGrid, XAxis, YAxis, ResponsiveContainer } from 'recharts';
 import { FaFan, FaLightbulb, FaRegSnowflake, FaThermometerHalf } from 'react-icons/fa'; // Appliance icons
